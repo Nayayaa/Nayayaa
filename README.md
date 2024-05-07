@@ -30,7 +30,6 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=ADFF2F)
 ![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=ADFF2F)
-![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=ADFF2F)
 ![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=ADFF2F)
 ![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=ADFF2F)
 ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=ADFF2F)
@@ -44,6 +43,7 @@
 
 ![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=ADFF2F)
 ![C++](https://img.shields.io/badge/C%2B%2B-%23000000?style=for-the-badge&logo=c%2B%2B&logoColor=ADFF2F)
+![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=ADFF2F)
 </div>
 
 <h2 align="center"> 👩🏻‍💻 Sistema Operacional 👩🏻‍💻 </h2>
