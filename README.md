@@ -59,7 +59,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dxcy64uvxuaz2h3yb77y7zqaq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31dxcy64uvxuaz2h3yb77y7zqaq4&redirect=true)&nbsp;
 </div>
 
-<a align="center" src="https://tryhackme.com/badge/3308650"></a> 
+<div align="center" src="https://tryhackme.com/badge/3308650"> </div> 
 
 <h2 align="center">	📌 Minhas Badges 📌</h2>
 <div class="badges" align="center">
