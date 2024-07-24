@@ -67,7 +67,7 @@
 </div>
 
 <div>
-    <script src="https://tryhackme.com/badge/3308650"></script>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Vanessa.naya.png" alt="TryHackMe">
 </div>
 
 <h2 align="center"></h2>
