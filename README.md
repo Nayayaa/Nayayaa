@@ -54,7 +54,6 @@
 </div>
 
 
-
 <h2 align="center">🎧 Now Playing — Spotify 🎧</h2>
 <div align="center">
 
@@ -67,7 +66,9 @@
 <a href="https://globalai.community/badges/258eb3ea-c006-464d-80ca-c724b5d06079/"><img src="https://globalai.community/media/2cdde3yp/brazil_rio-de-janeiro_887_sticker.png?width=0&height=500&v=1da8814b3212bf0" width="180" height="180"></a>
 </div>
 
-<script src="https://tryhackme.com/badge/3308650"></script>
+<div>
+    <script src="https://tryhackme.com/badge/3308650"></script>
+</div>
 
 <h2 align="center"></h2>
 
