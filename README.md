@@ -59,6 +59,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dxcy64uvxuaz2h3yb77y7zqaq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31dxcy64uvxuaz2h3yb77y7zqaq4&redirect=true)&nbsp;
 </div>
 
+<a align="center" src="https://tryhackme.com/badge/3308650"></a> 
+
 <h2 align="center">	📌 Minhas Badges 📌</h2>
 <div class="badges" align="center">
 <a href="https://www.credly.com/badges/7b00330a-672f-46e3-97ee-f034d83be6f2/public_url"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="180" height="180"></a>
