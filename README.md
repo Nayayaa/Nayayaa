@@ -6,7 +6,6 @@
 
 <p align="center">Oie! Meu nome é Vanessa, mas podem me chamar de <b style="color: #7CFC00">Naya</b>. Sou graduada em Design de Animação porém estou em transição de carreira. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IBMEC - Rio de Janeiro, apesar do Front-end e Back-end terem me atraido, estou muito interessada em seguir na área de Cybersecurity.</p>
 
-<script src="https://tryhackme.com/badge/3308650"></script>
 
 <h2 align="center"> 🔗 Conecte-se comigo 🔗</h2>
  
@@ -62,9 +61,6 @@
 <a href="https://globalai.community/badges/258eb3ea-c006-464d-80ca-c724b5d06079/"><img src="https://globalai.community/media/2cdde3yp/brazil_rio-de-janeiro_887_sticker.png?width=0&height=500&v=1da8814b3212bf0" width="180" height="180"></a>
 </div>
 
-<div>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Vanessa.naya.png" alt="TryHackMe">
-</div>
 
 <h2 align="center"></h2>
 
