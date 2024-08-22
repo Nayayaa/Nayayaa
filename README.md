@@ -40,6 +40,7 @@
 
 <div align="center">
 
+![Linux](https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=ADFF2F)
 ![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=ADFF2F)
 ![C++](https://img.shields.io/badge/C%2B%2B-%23000000?style=for-the-badge&logo=c%2B%2B&logoColor=ADFF2F)
 ![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=ADFF2F)
