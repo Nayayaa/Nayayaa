@@ -52,8 +52,6 @@
 ![Windows](https://img.shields.io/badge/Windows-%23000000?style=for-the-badge&logo=windows&logoColor=ADFF2F)
 </div>
 
-<div align="center" src="https://tryhackme.com/badge/3308650"> </div> 
-
 <h2 align="center">	📌 Minhas Badges 📌</h2>
 <div class="badges" align="center">
 <a href="https://www.credly.com/badges/7b00330a-672f-46e3-97ee-f034d83be6f2/public_url"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="180" height="180"></a>
