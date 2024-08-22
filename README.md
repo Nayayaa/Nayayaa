@@ -56,7 +56,7 @@
 <h2 align="center">🎧 Now Playing — Spotify 🎧</h2>
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dxcy64uvxuaz2h3yb77y7zqaq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31dxcy64uvxuaz2h3yb77y7zqaq4&redirect=true)&nbsp;
+[![spotify-github-profile](https://https://spotify-github-profile.kittinanx.com/api/view?uid=31dxcy64uvxuaz2h3yb77y7zqaq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31dxcy64uvxuaz2h3yb77y7zqaq4&redirect=true)&nbsp;
 </div>
 
 <div align="center" src="https://tryhackme.com/badge/3308650"> </div> 
