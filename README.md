@@ -57,7 +57,7 @@
 <div class="badges" align="center">
 <a href="https://www.credly.com/badges/7b00330a-672f-46e3-97ee-f034d83be6f2/public_url"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="180" height="180"></a>
 <a href="https://globalai.community/badges/258eb3ea-c006-464d-80ca-c724b5d06079/"><img src="https://globalai.community/media/2cdde3yp/brazil_rio-de-janeiro_887_sticker.png?width=0&height=500&v=1da8814b3212bf0" width="180" height="180"></a>
-<a href="https://brasilopenbadge.com.br/ganhador/ver-badge/?id=00645a3a508c73498fd0293590ba4068"><img src="https://brasilopenbadge.com.br/badge/6903.png?nocache=187379372" width="180" height="180"></a>
+<a href="http://badges.com.br/share/00645a3a508c73498fd0293590ba4068.php?a=6903"><img src="https://brasilopenbadge.com.br/badge/6903.png?nocache=187379372" width="180" height="180"></a>
 </div>
 
 <h2 align="center"></h2>
