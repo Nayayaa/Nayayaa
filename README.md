@@ -72,3 +72,4 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=Projeto_Tekken&theme=merko)](https://github.com/Nayayaa/Projeto_Tekken)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=Treasure-Hunt&theme=merko)](https://github.com/Nayayaa/Treasure-Hunt)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=SistemasOperacionais&theme=merko)](https://github.com/Nayayaa/SistemasOperacionais)
