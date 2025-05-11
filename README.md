@@ -93,7 +93,6 @@
 <h2 align="center"> 📂 Repositórios 📂 </h2>
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=Projeto_Tekken&theme=merko)](https://github.com/Nayayaa/Projeto_Tekken)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=Nayayaa.github.io&theme=merko)](https://github.com/Nayayaa/Nayayaa.github.io)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=Projetos_de_treino&theme=merko)](https://github.com/Nayayaa/Projetos_de_treino)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=Treasure-Hunt&theme=merko)](https://github.com/Nayayaa/Treasure-Hunt)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=SistemasOperacionais&theme=merko)](https://github.com/Nayayaa/SistemasOperacionais)
