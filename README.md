@@ -34,10 +34,10 @@
 ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=ADFF2F)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=ADFF2F)
 ![Canva](https://img.shields.io/badge/Canva-%23000000?style=for-the-badge&logo=Canva&logoColor=ADFF2F)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23000000?style=for-the-badge&logo=figma&logoColor=ADFF2F)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-%23000000?style=for-the-badge&logo=microsoft-word&logoColor=ADFF2F)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-%23000000?style=for-the-badge&logo=microsoft-excel&logoColor=ADFF2F)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-%23000000?style=for-the-badge&logo=microsoft-powerpoint&logoColor=ADFF2F)
 </div>
 
 <h2 align="center"> 📚 Estudando 📚 </h2>
@@ -47,16 +47,16 @@
 ![Linux](https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=ADFF2F)
 ![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=ADFF2F)
 ![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=ADFF2F)
-![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%23000000?style=for-the-badge&logo=kotlin&logoColor=ADFF2F)
 </div>
 
 <h2 align="center"> 🗂️ Planeja Estudar 🗂️ </h2>
 
 <div align="center">
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-%23000000?style=for-the-badge&logo=arch-linux&logoColor=ADFF2F)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23000000?style=for-the-badge&logo=kali-linux&logoColor=ADFF2F)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23000000?style=for-the-badge&logo=ubuntu&logoColor=ADFF2F)
 </div>
 
 <h2 align="center"> 👩‍💻 Sistema Operacional 👩‍💻 </h2>
@@ -70,9 +70,9 @@
 
 <div align="center">
 
-![Interllij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Interllij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000?style=for-the-badge&logo=intellij-idea&logoColor=ADFF2F)
+![Pycharm](https://img.shields.io/badge/PyCharm-%23000000?&style=for-the-badge&logo=PyCharm&logoColor=ADFF2F)
+![VSCode](https://img.shields.io/badge/VSCode-%23000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=ADFF2F)
 </div>
 
 <h2 align="center">	📌 Minhas Badges 📌</h2>
@@ -93,7 +93,10 @@
 <h2 align="center"> 📂 Repositórios 📂 </h2>
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=Projeto_Tekken&theme=merko)](https://github.com/Nayayaa/Projeto_Tekken)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=Trabalho_Desenvolvimento_Web&theme=merko)](https://github.com/Nayayaa/Nayayaa.github.io)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=Projetos_de_treino&theme=merko)](https://github.com/Nayayaa/Projetos_de_treino)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=Treasure-Hunt&theme=merko)](https://github.com/Nayayaa/Treasure-Hunt)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=SistemasOperacionais&theme=merko)](https://github.com/Nayayaa/SistemasOperacionais)
-[![Repo Card]()]()
-[![Repo Card]()]()
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=POO&theme=merko)](https://github.com/Nayayaa/POO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=EngDados&theme=merko)](https://github.com/Nayayaa/EngDados)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=DesenvolvimentoMobile&theme=merko)](https://github.com/Nayayaa/DesenvolvimentoMobile)
