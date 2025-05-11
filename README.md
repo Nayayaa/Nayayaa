@@ -18,7 +18,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=ADFF2F)](https://www.linkedin.com/in/vanessa-nascimento-nayaya/)
   [![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=ADFF2F)](https://github.com/Nayayaa)
   [![Spotify](https://img.shields.io/badge/Spotify-%23000000?style=for-the-badge&logo=spotify&logoColor=ADFF2F)](https://open.spotify.com/user/31dxcy64uvxuaz2h3yb77y7zqaq4)
-  [Discord](https://img.shields.io/badge/Discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=ADFF2F)
+  [![Discord](https://img.shields.io/badge/Discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=ADFF2F)]
   [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=ADFF2F)](https://steamcommunity.com/id/nayayaaa/)
   </div>
 
@@ -34,6 +34,10 @@
 ![Git](https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=ADFF2F)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=ADFF2F)
 ![Canva](https://img.shields.io/badge/Canva-%23000000?style=for-the-badge&logo=Canva&logoColor=ADFF2F)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 </div>
 
 <h2 align="center"> 📚 Estudando 📚 </h2>
@@ -43,13 +47,32 @@
 ![Linux](https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=ADFF2F)
 ![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=ADFF2F)
 ![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=ADFF2F)
+![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 </div>
 
-<h2 align="center"> 👩🏻‍💻 Sistema Operacional 👩🏻‍💻 </h2>
+<h2 align="center"> 🗂️ Planeja Estudar 🗂️ </h2>
+
+<div align="center">
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+</div>
+
+<h2 align="center"> 👩‍💻 Sistema Operacional 👩‍💻 </h2>
 
 <div align="center">
 
 ![Windows](https://img.shields.io/badge/Windows-%23000000?style=for-the-badge&logo=windows&logoColor=ADFF2F)
+</div>
+
+<h2 align="center"> 💻⚙️ IDE 💻⚙️ </h2>
+
+<div align="center">
+
+![Interllij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </div>
 
 <h2 align="center">	📌 Minhas Badges 📌</h2>
@@ -72,3 +95,5 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=Projeto_Tekken&theme=merko)](https://github.com/Nayayaa/Projeto_Tekken)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=Treasure-Hunt&theme=merko)](https://github.com/Nayayaa/Treasure-Hunt)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=SistemasOperacionais&theme=merko)](https://github.com/Nayayaa/SistemasOperacionais)
+[![Repo Card]()]()
+[![Repo Card]()]()
