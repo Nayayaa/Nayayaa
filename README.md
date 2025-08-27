@@ -16,7 +16,6 @@
   <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=ADFF2F)](https://www.linkedin.com/in/vanessa-nascimento-nayaya/)
-  [![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=ADFF2F)](https://github.com/Nayayaa)
   [![Spotify](https://img.shields.io/badge/Spotify-%23000000?style=for-the-badge&logo=spotify&logoColor=ADFF2F)](https://open.spotify.com/user/31dxcy64uvxuaz2h3yb77y7zqaq4)
   </div>
 
