@@ -4,7 +4,7 @@
 </div>
 
 
-<p align="center">Oie! Meu nome é Vanessa, mas podem me chamar de <b style="color: #7CFC00">Naya</b>. Sou graduada em Design de Animação porém estou em transição de carreira. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IBMEC - Rio de Janeiro, apesar do Front-end e Back-end terem me atraido, estou muito interessada em seguir na área de Cybersecurity.</p>
+<p align="center">Oie! Meu nome é Vanessa, mas podem me chamar de <b style="color: #7CFC00">Naya</b>. Sou graduada em Design Gráfico porém estou em transição de carreira. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no IBMEC - Rio de Janeiro, apesar do Back-end ter me atraido, estou muito interessada em seguir na área de Cybersecurity.</p>
 
 <div align="center"> 
     <img src="https://giffiles.alphacoders.com/187/187960.gif"></img>
