@@ -89,10 +89,11 @@
 
 <h2 align="center"> 📂 Repositórios 📂 </h2>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=Projeto_Tekken&theme=merko)](https://github.com/Nayayaa/Projeto_Tekken)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=BigData-and-Cloud-Computing&theme=merko)](https://github.com/Nayayaa/BigData-and-Cloud-Computing)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=DesafiosDIO_Cybersecurity&theme=merko)](https://github.com/Nayayaa/DesafiosDIO_Cybersecurity)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=BigData-and-Cloud-Computing&theme=merko)](https://github.com/Nayayaa/BigData-and-Cloud-Computing)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=ProjetoMobile-Primeira-Ilha&theme=merko)](https://github.com/Nayayaa/ProjetoMobile-Primeira-Ilha)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=Projeto_Tekken&theme=merko)](https://github.com/Nayayaa/Projeto_Tekken)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=DesenvolvimentoMobile&theme=merko)](https://github.com/Nayayaa/DesenvolvimentoMobile)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=POO&theme=merko)](https://github.com/Nayayaa/POO)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=EngDados&theme=merko)](https://github.com/Nayayaa/EngDados)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nayayaa&repo=DesenvolvimentoMobile&theme=merko)](https://github.com/Nayayaa/DesenvolvimentoMobile)
+
