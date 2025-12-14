@@ -28,7 +28,7 @@
 ![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=ADFF2F)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23000000?style=for-the-badge&logo=kotlin&logoColor=ADFF2F)
 ![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=ADFF2F)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white
+![Azure](https://img.shields.io/badge/azure-%23000000.svg?style=for-the-badge&logo=microsoftazure&logoColor=ADFF2F)
 ![HTML5](https://img.shields.io/badge/html5-%23000000.svg?style=for-the-badge&logo=html5&logoColor=ADFF2F)
 ![CSS3](https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=ADFF2F)
 ![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=ADFF2F)
@@ -49,7 +49,7 @@
 ![Linux](https://img.shields.io/badge/Linux-%23000000?style=for-the-badge&logo=linux&logoColor=ADFF2F)
 ![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=openjdk&logoColor=ADFF2F)
 ![Python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=ADFF2F)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=ADFF2F)
 
 </div>
 
@@ -76,7 +76,7 @@
 ![Interllij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000?style=for-the-badge&logo=intellij-idea&logoColor=ADFF2F)
 ![Pycharm](https://img.shields.io/badge/PyCharm-%23000000?&style=for-the-badge&logo=PyCharm&logoColor=ADFF2F)
 ![VSCode](https://img.shields.io/badge/VSCode-%23000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=ADFF2F)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=ADFF2F)
 </div>
 
 <h2 align="center">	📌 Minhas Badges 📌</h2>
