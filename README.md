@@ -90,7 +90,7 @@
 
 <h2 align="center"></h2>
 
-[![Nayayaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayayaa&bg_color=121716&color=ffffff&line=27ab0d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nayayaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayayaa&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Nayayaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayayaa&theme=merko)
 
