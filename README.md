@@ -95,7 +95,7 @@
 
 <a href="https://github-stats-extended.vercel.app/api?username=Nayayaa&show_icons=true&include_all_commits=true&theme=merko&card_width=500">
   <img
-    height="200"
+    height="165"
     align="center"
     src="https://github-stats-extended.vercel.app/api?username=Nayayaa&show_icons=true&include_all_commits=true&theme=merko&card_width=500"
   />
@@ -111,10 +111,39 @@
 
 <h2 align="center"> 📂 Repositórios 📂 </h2>
 
-[![Repo Card](https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=BigData-and-Cloud-Computing&theme=merko)](https://github.com/Nayayaa/BigData-and-Cloud-Computing)
-[![Repo Card](https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=ProjetoMobile-Primeira-Ilha&theme=merko)](https://github.com/Nayayaa/ProjetoMobile-Primeira-Ilha)
-[![Repo Card](https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=Projeto_Tekken&theme=merko)](https://github.com/Nayayaa/Projeto_Tekken)
-[![Repo Card](https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=DesenvolvimentoMobile&theme=merko)](https://github.com/Nayayaa/DesenvolvimentoMobile)
-[![Repo Card](https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=POO&theme=merko)](https://github.com/Nayayaa/POO)
-[![Repo Card](https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=EngDados&theme=merko)](https://github.com/Nayayaa/EngDados)
-
+<a href="https://github.com/Nayayaa/BigData-and-Cloud-Computing">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=BigData-and-Cloud-Computing&theme=merko"
+  />
+</a>
+<a href="https://github.com/Nayayaa/ProjetoMobile-Primeira-Ilha">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=ProjetoMobile-Primeira-Ilha&theme=merko"
+  />
+</a>
+<a href="https://github.com/Nayayaa/Projeto_Tekken">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=Projeto_Tekken&theme=merko"
+  />
+</a>
+<a href="https://github.com/Nayayaa/DesenvolvimentoMobile">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=DesenvolvimentoMobile&theme=merko"
+  />
+</a>
+<a href="https://github.com/Nayayaa/POO">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=POO&theme=merko"
+  />
+</a>
+<a href="https://github.com/Nayayaa/EngDados">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=EngDados&theme=merko"
+  />
+</a>
