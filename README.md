@@ -135,10 +135,10 @@
     src="https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=DesenvolvimentoMobile&theme=merko"
   />
 </a>
-<a href="https://github.com/Nayayaa/POO">
+<a href="https://github.com/Nayayaa/Startup-Lasanha-Tracker.">
   <img
     align="center"
-    src="https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=POO&theme=merko"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nayayaa&repo=Startup-Lasanha-Tracker.&theme=merko"
   />
 </a>
 <a href="https://github.com/Nayayaa/EngDados">
