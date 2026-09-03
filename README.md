@@ -15,7 +15,7 @@
  
   <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=ADFF2F)](https://www.linkedin.com/in/vanessa-nascimento-nayaya/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=ADFF2F)](https://www.linkedin.com/in/vanessasml-nascimento-nayayaa/)
   </div>
 
 
